@@ -1,0 +1,1 @@
+# cloudfront-lambda-redirect-index_html-
